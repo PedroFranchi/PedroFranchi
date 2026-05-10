@@ -36,8 +36,8 @@ Always exploring new ways to connect technology to real-world problems.
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroFranchi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFranchi&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroFranchi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=PedroFranchi&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
