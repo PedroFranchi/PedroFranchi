@@ -43,7 +43,6 @@ Always exploring new ways to connect technology to real-world problems.
 <p align="center">
   <img src="https://raw.githubusercontent.com/PedroFranchi/PedroFranchi/output/galaga.svg" alt="Galaga contribution graph" />
 </p>
----
  
 ## 📬 Contact
  
