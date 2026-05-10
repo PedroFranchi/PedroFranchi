@@ -8,8 +8,8 @@
  
 ## 🧑‍💻 About Me
  
-I'm a data analyst and developer passionate about turning raw data into real business decisions. I work at the intersection of data engineering, BI, and automation — building pipelines, dashboards, and tools that make information flow where it needs to go.
- 
+I'm a full stack developer and data analyst passionate about turning raw data into real business decisions. I work at the intersection of data engineering, BI, and automation, building pipelines, dashboards, and tools that make information flow where it needs to go.
+
 Always exploring new ways to connect technology to real-world problems.
  
  
