@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Pedro Henrique 👋</h1>
  
 <p align="center">
-  <em>Data Analyst & Developer · Building things that make data useful</em>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%26+Developer;Building+data+pipelines+%26+dashboards;Python+%7C+PostgreSQL+%7C+React;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
  
 ## 🧑‍💻 About Me
@@ -36,6 +38,10 @@ Always exploring new ways to connect technology to real-world problems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroFranchi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFranchi&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroFranchi/PedroFranchi/output/galaga.svg" alt="Galaga contribution graph" />
 </p>
 ---
  
