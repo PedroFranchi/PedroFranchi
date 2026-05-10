@@ -3,7 +3,6 @@
 <p align="center">
   <em>Data Analyst & Developer · Building things that make data useful</em>
 </p>
----
  
 ## 🧑‍💻 About Me
  
@@ -11,7 +10,6 @@ I'm a data analyst and developer passionate about turning raw data into real bus
  
 Always exploring new ways to connect technology to real-world problems.
  
----
  
 ## 🛠️ Skills & Technologies
  
@@ -32,13 +30,12 @@ Always exploring new ways to connect technology to real-world problems.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
----
  
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHFJesus&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHFJesus&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroFranchi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFranchi&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 ---
  
