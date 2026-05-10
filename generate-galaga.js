@@ -1,5 +1,5 @@
-const { GalagaRenderer } = require('pacman-contribution-graph');
-const fs = require('fs');
+import { GalagaRenderer } from 'pacman-contribution-graph';
+import fs from 'fs';
 
 if (!fs.existsSync('dist')) fs.mkdirSync('dist');
 
