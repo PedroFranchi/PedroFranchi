@@ -34,14 +34,11 @@ Always exploring new ways to connect technology to real-world problems.
  
  
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroFranchi&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroFranchi&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=PedroFranchi&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PedroFranchi/PedroFranchi/output/galaga.svg" alt="Galaga contribution graph" />
