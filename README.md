@@ -1,10 +1,48 @@
-- 👋 Hello, I'm @PedroFranchi
-- 👀 I am interested in seeking knowledge to become a good professional.
-- 🌱 I'm currently learning HTML, CSS and JavaScript at SPTECH college
-- 📫 How to contact me: send an email to pedro.fjesus@sptech.school
-- ⚡ Fun fact: I like to play in my spare time
-
-<!---
-PedroFranchi/PedroFranchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey, I'm Pedro Henrique 👋</h1>
+ 
+<p align="center">
+  <em>Data Analyst & Developer · Building things that make data useful</em>
+</p>
+---
+ 
+## 🧑‍💻 About Me
+ 
+I'm a data analyst and developer passionate about turning raw data into real business decisions. I work at the intersection of data engineering, BI, and automation — building pipelines, dashboards, and tools that make information flow where it needs to go.
+ 
+Always exploring new ways to connect technology to real-world problems.
+ 
+---
+ 
+## 🛠️ Skills & Technologies
+ 
+**Front-end**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ 
+**Back-end**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+ 
+**Databases & Infrastructure**
+ 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHFJesus&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHFJesus&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+---
+ 
+## 📬 Contact
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/pe-jesus/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrofranchi050@gmail.com)
